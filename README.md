@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Seja bem-vindo ao meu perfil!<br><br>- 🔭 I’m working as Soluevo<br>- 📚 I'm currently working with Java and Spring<br>- ⚡ In my free time I play CS2 =D</p>
+<p align="left">Seja bem-vindo ao meu perfil!<br><br>- 🔭 I’m working at Soluevo<br>- 📚 I'm currently working with Java and Spring<br>- ⚡ In my free time I play CS2 =D</p>
 
 ###
 
